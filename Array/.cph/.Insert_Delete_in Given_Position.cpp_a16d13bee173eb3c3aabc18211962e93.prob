@@ -1,0 +1,1 @@
+{"name":"Local: Insert_Delete_in Given_Position","url":"g:\\Data Structure\\Array\\Insert_Delete_in Given_Position.cpp","tests":[{"id":1719635331063,"input":"6\n1 2 3 4 5 7 \n3 0\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Data Structure\\Array\\Insert_Delete_in Given_Position.cpp","group":"local","local":true}
